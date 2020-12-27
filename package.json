@@ -13,5 +13,14 @@
     "ffmpeg-static": "^4.2.7",
     "fluent-ffmpeg": "^2.1.2",
     "get-video-duration": "^3.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonLGH/ffmpeg-getpercent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MoonLGH/ffmpeg-getpercent/issues"
+  },
+  "homepage": "https://github.com/MoonLGH/ffmpeg-getpercent#readme"
 }
